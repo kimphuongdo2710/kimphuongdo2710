@@ -20,11 +20,12 @@ I'm a passionate **Data Analyst** with experience in **Social Listening**. I lov
 
 ## Featured Projects 💻
 
-### [Revenue Analysis for CONTOSO]
+### Project 1: Revenue Analysis for CONTOSO
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 PDF link](asset/Phuong_Contoso_PowerBI_dashboard.pdf)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Revenue Analysis for CONTOSO** is a **sales performance dashboard enabling users to explore key financial metrics (Sales Revenue, Profit, Cost) and track KPIs** built with **PowerBI**. This project demonstrates my ability to use calculated columns and DAX measures to uncover insights such as year-over-year growth and category/sub-category performance. It also highlights how I translated data insights into strategic recommendations to optimize sales strategies across multiple product categories. You can check out the findings [here] (asset/Phuong_Contoso_Revenue Analysis.pdf)
+.
 
 ### [Project 2 Title](project_2_link)
 
