@@ -30,10 +30,10 @@ Looking ahead, I aim to grow my career in technical areas such as data crawling,
 
 ### Project 2: Hotel Booking Analysis (Mar. 2025)
 
-**Hotel Booking Analysis** is a **[brief project description]** built with **SQL**. This project showcases my skills in analyzing 7,000+ hotel booking records to identify top-performing room types and services, evaluate occupancy rates, and optimize pricing strategies to maximize revenue. It also highlights my ability to query 3,000+ payment transactions to detect anomalies and uncover potential booking fraud. You can check out the repository [here](https://github.com/kimphuongdo2710/PortfolioProject-2025/blob/main/hotel_revenue_10Mar25.sql).
+**Hotel Booking Analysis** is a **data-driven business performance analysis using 2 years of booking data** built with **SQL**. This project showcases my skills in analyzing 7,000+ hotel booking records to identify top-performing room types and services, evaluate occupancy rates, and optimize pricing strategies to maximize revenue. It also highlights my ability to query 3,000+ payment transactions to detect anomalies and uncover potential booking fraud. You can check out the repository [here](https://github.com/kimphuongdo2710/PortfolioProject-2025/blob/main/hotel_revenue_10Mar25.sql).
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/kimphuongdo2710/)
+- **LinkedIn:** https://www.linkedin.com/in/kimphuongdo2710/
 
 
