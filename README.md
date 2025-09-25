@@ -26,11 +26,11 @@ Looking ahead, I aim to grow my career in technical areas such as data crawling,
 
 [Project 1 PDF link](asset/Phuong_Contoso_PowerBI_dashboard.pdf)
 
-**Revenue Analysis for CONTOSO** is a **sales performance dashboard enabling users to explore key financial metrics (Sales Revenue, Profit, Cost) and track KPIs** built with **PowerBI**. This project demonstrates my ability to use calculated columns and DAX measures to uncover insights such as year-over-year growth and category/sub-category performance. It also highlights how I translated data insights into strategic recommendations to optimize sales strategies across multiple product categories. You can check out the findings further [here](asset/Phuong_Contoso_Revenue_Analysis.pdf).
+> **Revenue Analysis for CONTOSO** is a **sales performance dashboard enabling users to explore key financial metrics (Sales Revenue, Profit, Cost) and track KPIs** built with **PowerBI**. This project demonstrates my ability to use calculated columns and DAX measures to uncover insights such as year-over-year growth and category/sub-category performance. It also highlights how I translated data insights into strategic recommendations to optimize sales strategies across multiple product categories. You can check out the findings further [here](asset/Phuong_Contoso_Revenue_Analysis.pdf).
 
 ### Project 2: Hotel Booking Analysis (Mar. 2025)
 
-**Hotel Booking Analysis** is a **data-driven business performance analysis using 2 years of booking data** built with **SQL**. This project showcases my skills in analyzing 7,000+ hotel booking records to identify top-performing room types and services, evaluate occupancy rates, and optimize pricing strategies to maximize revenue. It also highlights my ability to query 3,000+ payment transactions to detect anomalies and uncover potential booking fraud. You can check out the repository [here](https://github.com/kimphuongdo2710/PortfolioProject-2025/blob/main/hotel_revenue_10Mar25.sql).
+> **Hotel Booking Analysis** is a **data-driven business performance analysis using 2 years of booking data** built with **SQL**. This project showcases my skills in analyzing 7,000+ hotel booking records to identify top-performing room types and services, evaluate occupancy rates, and optimize pricing strategies to maximize revenue. It also highlights my ability to query 3,000+ payment transactions to detect anomalies and uncover potential booking fraud. You can check out the repository [here](https://github.com/kimphuongdo2710/PortfolioProject-2025/blob/main/hotel_revenue_10Mar25.sql).
 
 ## Get in Touch 📬
 
