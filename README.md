@@ -36,4 +36,4 @@ Looking ahead, I aim to grow my career in technical areas such as data crawling,
 
 - **LinkedIn:** https://www.linkedin.com/in/kimphuongdo2710/
 
-
+![Profile views](https://komarev.com/ghpvc/?username=kimphuongdo2710&color=blue)
